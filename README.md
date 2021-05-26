@@ -22,7 +22,7 @@ To install the bindings via [Composer](https://getcomposer.org/), add the follow
     }
   ],
   "require": {
-    "GIT_USER_ID/GIT_REPO_ID": "*@dev"
+    "sgieske/feedapi": "*@dev"
   }
 }
 ```
